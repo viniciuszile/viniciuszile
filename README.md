@@ -1,4 +1,4 @@
-## Olá! Eu sou o Vinicius Zile
+## Olá! Eu sou o Vinicius, mas pode me chamar de Zile 😄
 
 - 🏫 Faço o curso de desenvolvimento de sistemas no Senai Suiço brasileiro 
 - 💻 estou estudando front end : Javacript,html,css 
