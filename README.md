@@ -1,13 +1,15 @@
-## Olá! Eu sou o Vinicius, mas pode me chamar de Zile 😄
+- Olá Mundo !!! <img width ="20px" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif">
 
-- 🏫 Faço o curso de desenvolvimento de sistemas no Senai Suiço brasileiro 
-- 💻 estou estudando front end : Javacript,html,css 
-- 💻 estou estudando Banco de dados : MYSQL workbench 
+- Eu sou o Vinicius, mas pode me chamar de Zile <img width = "30px" src ="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/headbang.gif">
+
+- 🏫 Faço o curso de desenvolvimento de sistemas no Senai Suiço brasileiro  <img width = "20px" src = "https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Rocket.gif">
+- 👩‍💻 estou estudando front end : Javacript,html,css <img width = "20px" src = "https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/hmm.gif">
+- 👩‍💻 estou estudando Banco de dados : MYSQL workbench <img width = "20px" src = "https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/hmm.gif">
 
 <div>
   <a href="https://viniciuszile">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=viniciuszile&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150ox" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuszile&layout=compact&langs_count=16&theme=radical"/>
+  <img width = "500px" src="https://github-readme-stats.vercel.app/api?username=viniciuszile&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img width = "500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuszile&layout=compact&langs_count=16&theme=radical"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -27,6 +29,8 @@
   <a href = "mailto:contato@rafaballerini.tech"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+  
+  <img width = "1200px" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/dino.gif"/>
 
-![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
+
 
