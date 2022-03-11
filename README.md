@@ -20,10 +20,10 @@
   <img align="center" alt="Zile-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
-<div align="center">
+<!-- <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{viniciuszile}/count.svg" /></p> 
-<br></div>
+<br></div> -->
   
   
   
