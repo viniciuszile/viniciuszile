@@ -1,10 +1,9 @@
-- Olá Mundo !!! <img width ="15px" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif">
+- Olá Mundo !!! 
+- Eu sou o Vinicius, mas pode me chamar de Zile 
 
-- Eu sou o Vinicius, mas pode me chamar de Zile <img width = "30px" src ="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/headbang.gif">
-
-- 🏫 Faço o curso de desenvolvimento de sistemas no Senai Suiço brasileiro  <img width = "20px" src = "https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Rocket.gif">
-- 👩‍💻 estou estudando front end : Javacript,html,css <img width = "20px" src = "https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/hmm.gif">
-- 👩‍💻 estou estudando Banco de dados : MYSQL workbench <img width = "20px" src = "https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/hmm.gif">
+- 🏫 Faço o curso de desenvolvimento de sistemas no Senai Suiço brasileiro  
+- 👩‍💻 estou estudando front end : Javacript,html,css 
+- 👩‍💻 estou estudando Banco de dados : MYSQL workbench 
 
 <div>
   <a href="https://viniciuszile">
