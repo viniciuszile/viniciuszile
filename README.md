@@ -2,8 +2,9 @@
 - Eu sou o Vinicius, mas pode me chamar de Zile 
 
 - 🏫 Faço o curso de desenvolvimento de sistemas no Senai Suiço brasileiro  
-- 👩‍💻 estou estudando front end : Javacript,html,css 
-- 👩‍💻 estou estudando Banco de dados : MYSQL workbench 
+- 👩‍💻 estou estudando front end : html,css,React.Js,React-Native 
+- 👩‍💻 estou estudando back end : JavaScript,Node.js
+- 👩‍💻 estou estudando Banco de dados : MYSQL Workbench, MYSQl Server
 
 <div>
   <a href="https://viniciuszile">
