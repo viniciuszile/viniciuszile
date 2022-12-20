@@ -1,7 +1,7 @@
 - Olá Mundo !!! 
 - Eu sou o Vinicius, mas pode me chamar de Zile 
 
-- 🏫 Faço o curso de desenvolvimento de sistemas no Senai Suiço brasileiro  
+- 🏫 Formado em Analise e desenvolvimento de sistemas no Senai Suiço brasileiro  
 - 👩‍💻 estou estudando front end : html,css,React.Js,React-Native 
 - 👩‍💻 estou estudando back end : JavaScript,Node.js
 - 👩‍💻 estou estudando Banco de dados : MYSQL Workbench, MYSQl Server
