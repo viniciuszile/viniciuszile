@@ -34,7 +34,7 @@
   
   
   <div><br><br>
-  <img width = "1200px" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/dino.gif">
+  <img width = "1200px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif">
   <div />
 
 
